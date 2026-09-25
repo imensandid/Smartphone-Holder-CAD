@@ -6,6 +6,10 @@ Design and development of an **adjustable desktop smartphone holder** intended t
 
 The design incorporates an **adjustable articulated arm, an inclinable phone tray, and a weighted anti-tip base**.
 
+
+![Smartphone-Holder-CAD
+](SmartPhoneHolder.png)
+
 ## Design Requirements
 
 The holder was designed to accommodate smartphones from **5" to 7"** and meet the following requirements:
