@@ -1,4 +1,4 @@
-# Adjustable Desktop Smartphone Holder
+# Adjustable Smartphone Stand — Design & Development
 
 ## Project Overview
 
